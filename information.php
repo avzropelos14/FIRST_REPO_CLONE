@@ -15,6 +15,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Information</title>
     <style>
+/*changes
+    body{
+            background-color: yellow;
+}
+        */
+
+        
+        
         *{
             font-family: monospace;
         }
